@@ -14,4 +14,4 @@ Data engineering stack using airflow, airbyte, dts and metabase.
 Fontes de dados:
  - https://storage.googleapis.com/covid19-open-data/v3/demographics.csv
  - https://storage.googleapis.com/covid19-open-data/v3/economy.csv
- - https://storage.googleapis.com/covid19-open-data/v3/epidemiology.csv
+ - 
